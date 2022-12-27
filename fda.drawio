@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-12-26T11:38:33.938Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="UrJOQzT5OJb5YK1JZ8xa" version="20.7.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-12-27T03:24:31.018Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="HBwMsYDY70GfFyJuusgs" version="20.7.4" type="github">
   <diagram id="u1A7Wv8suJlV6ekKMkJ3" name="Page-1">
     <mxGraphModel dx="1221" dy="727" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -124,7 +124,7 @@
         <mxCell id="8ferR3esrWney0wUMfSO-11" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="8ferR3esrWney0wUMfSO-19" vertex="1">
           <mxGeometry width="160" height="89" as="geometry" />
         </mxCell>
-        <mxCell id="8ferR3esrWney0wUMfSO-12" value="namespace = shapedb" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="8ferR3esrWney0wUMfSO-19" vertex="1">
+        <mxCell id="8ferR3esrWney0wUMfSO-12" value="Stores polygon" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="8ferR3esrWney0wUMfSO-19" vertex="1">
           <mxGeometry x="1" width="150" height="30" as="geometry" />
         </mxCell>
         <mxCell id="8ferR3esrWney0wUMfSO-13" value="ShapeDB" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1" parent="8ferR3esrWney0wUMfSO-19" vertex="1">
